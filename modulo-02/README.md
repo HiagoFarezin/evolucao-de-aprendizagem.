@@ -9,115 +9,30 @@ Tipos de dados
 Tipos Utilitários
 Métodos de Arrays
 
+Gestão de tempo
+Postura Profissional
+LinkedIn: primeiros passos
+
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-Função:
-Aprendemos que as funções em TypeScript são semelhantes às funções em JavaScript, mas com a adição de tipos para parâmetros e retorno; 
+LinkedIn: primeiros passos: 
+Os primeiros passos no LinkedIn envolvem criar um perfil profissional completo e atrativo, conectar-se com pessoas relevantes, participar ativamente na plataforma e começar a construir sua presença profissional.
 
+Postura Profissional:
+Postura profissional refere-se ao conjunto de comportamentos, atitudes e habilidades que uma pessoa demonstra no ambiente de trabalho e em interações relacionadas à sua carreira.
 
-
-
-Funções Anônimas e Arrow Functions
-TypeScript também suporta funções anônimas e arrow functions; ex:
-
-
-
-Tipos de Dados
-Aprendemos que o TypeScript adiciona tipagem estática a JavaScript, o que significa que você pode definir o tipo de variáveis, parâmetros e retornos de funções; ex:
-
-number: Números
-string: Cadeias de caracteres
-boolean: Valores booleanos (true ou false)
-array: Arrays, que podem ser tipados com elementos do mesmo tipo
-tuple: Arrays com um número fixo de elementos de tipos específicos
-enum: Enumerações
-any: Um tipo que pode ser qualquer coisa
-void: Indica que uma função não retorna um valor
-null e undefined: Representam valores nulos e indefinidos
-
-
-
-Tipos Utilitários
-Aprendemos que o TypeScript fornece vários tipos utilitários para facilitar manipulações comuns de tipos. Alguns dos mais utilizados são:
-
-Partial<T>: Torna todas as propriedades de T opcionais.
-Required<T>: Torna todas as propriedades de T obrigatórias.
-Readonly<T>: Torna todas as propriedades de T somente leitura.
-Pick<T, K>: Cria um tipo composto apenas por um conjunto de propriedades de T.
-Omit<T, K>: Cria um tipo a partir de T, excluindo um conjunto de propriedades.
-
-
-
-Métodos de Arrays
-Aprendemos que  "arrays em TypeScript" herdam os métodos do JavaScript, permitindo manipulações poderosas. Aqui estão alguns métodos comuns:
-
-push: Adiciona elementos ao final do array.
-pop: Remove o último elemento do array.
-shift: Remove o primeiro elemento do array.
-unshift: Adiciona elementos no início do array.
-map: Cria um novo array com os resultados de chamar uma função para cada elemento.
-filter: Cria um novo array com todos os elementos que passam no teste de uma função.
-reduce: Aplica uma função a um acumulador e a cada elemento do array (da esquerda para a direita) para reduzi-lo a um único valor.
+Gestão de Tempo:
+Gestão de tempo refere-se ao processo de planejamento, organização e controle do tempo gasto em diversas atividades para alcançar maior eficiência e produtividade. Envolve identificar tarefas prioritárias, estabelecer metas claras, eliminar desperdícios de tempo e utilizar técnicas adequadas para maximizar a realização de objetivos pessoais e profissionais dentro de um período determinado.
 
 
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-
-Funções em TypeScript
-
-Objetivo: Compreender como criar e utilizar funções em TypeScript, incluindo funções nomeadas, anônimas e arrow functions.
-Detalhes:
-Sintaxe de funções nomeadas e anônimas.
-Uso de tipos para parâmetros e retorno de funções.
-Diferenças entre funções tradicionais e arrow functions.
-
-Tipos de Dados em TypeScript
-
-Objetivo: Entender os diferentes tipos de dados em TypeScript e como usá-los para garantir a segurança de tipos no código.
-Detalhes:
-Tipos primitivos (number, string, boolean).
-Arrays e tuplas.
-Enums.
-Tipos especiais (any, void, null, undefined).
-Interfaces e tipos personalizados.
-
-Tipos Utilitários em TypeScript
-
-Objetivo: Aprender a usar tipos utilitários para manipular e transformar tipos existentes de maneira eficiente.
-Detalhes:
-Uso de Partial, Required, Readonly, Pick, Omit e outros utilitários.
-Aplicações práticas desses tipos em diferentes cenários.
-
-Métodos de Arrays
-
-Objetivo: Dominar os métodos de arrays disponíveis em TypeScript para manipular coleções de dados de maneira eficaz.
-Detalhes:
-Métodos de mutação (push, pop, shift, unshift).
-Métodos de iteração e transformação (map, filter, reduce).
-Exemplos práticos de uso desses métodos em diferentes contextos.
-Específicos que você pode querer aprender:
-Funções em TypeScript:
-
-Como definir e chamar funções.
-Como utilizar tipos para parâmetros e retornos.
-Diferenças e vantagens das arrow functions.
-Tipos de Dados em TypeScript:
-
-Como declarar e usar diferentes tipos de dados.
-Vantagens de usar tipos seguros.
-Como definir tipos personalizados usando interfaces e type aliases.
-Tipos Utilitários em TypeScript:
-
-Como tornar propriedades opcionais ou obrigatórias.
-Como criar tipos somente leitura.
-Como selecionar ou omitir propriedades de um tipo.
+Funções:
+Tipos de dados:
+Tipos Utilitários:
 Métodos de Arrays:
 
-Como adicionar e remover elementos em arrays.
-Como transformar e filtrar arrays de maneira eficiente.
-Como usar reduce para agregação de dados.
-
-
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
-"construção"
+
+loading...
