@@ -118,9 +118,10 @@ const sum = numbers.reduce((total, num) => total + num, 0); // 15
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 
-Vamos definir o que você quer aprender em cada um dos tópicos que serão abordados no módulo:
+
 
 Funções em TypeScript
+
 Objetivo: Compreender como criar e utilizar funções em TypeScript, incluindo funções nomeadas, anônimas e arrow functions.
 Detalhes:
 Sintaxe de funções nomeadas e anônimas.
@@ -128,6 +129,7 @@ Uso de tipos para parâmetros e retorno de funções.
 Diferenças entre funções tradicionais e arrow functions.
 
 Tipos de Dados em TypeScript
+
 Objetivo: Entender os diferentes tipos de dados em TypeScript e como usá-los para garantir a segurança de tipos no código.
 Detalhes:
 Tipos primitivos (number, string, boolean).
@@ -137,12 +139,14 @@ Tipos especiais (any, void, null, undefined).
 Interfaces e tipos personalizados.
 
 Tipos Utilitários em TypeScript
+
 Objetivo: Aprender a usar tipos utilitários para manipular e transformar tipos existentes de maneira eficiente.
 Detalhes:
 Uso de Partial, Required, Readonly, Pick, Omit e outros utilitários.
 Aplicações práticas desses tipos em diferentes cenários.
 
 Métodos de Arrays
+
 Objetivo: Dominar os métodos de arrays disponíveis em TypeScript para manipular coleções de dados de maneira eficaz.
 Detalhes:
 Métodos de mutação (push, pop, shift, unshift).
